@@ -1,4 +1,5 @@
 // Building an vidly app.
+const debug = require('debug');
 const config = require('config');
 const helmet = require('helmet');
 const morgan = require('morgan');
